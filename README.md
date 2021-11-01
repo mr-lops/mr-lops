@@ -3,8 +3,6 @@
 
  
 
-:computer: Sou Aspirante a Engenheiro de Machine Learning.
-
 :house_with_garden: Moro no Brasil.
 
 :books: Atualmente Curso Analise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Franca • Fatec Franca.
