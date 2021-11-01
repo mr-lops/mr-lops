@@ -1,5 +1,5 @@
 ## Olá, Bem Vindo! 👋
- Meu nome é <b>Vitor</b>!
+:man: Meu nome é <b>Vitor</b>!
 
  
 
