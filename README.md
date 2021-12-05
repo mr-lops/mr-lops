@@ -25,11 +25,10 @@
 -->
 <hr>
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://www.linkedin.com/in/vitor-s-lopes" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href=" https://www.hackerrank.com/vitorslopes" >
+ <a href="https://www.hackerrank.com/vitorslopes" >
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
  </a>
   <a href="mailto:vitorsantoslopes1@gmail.com" >
