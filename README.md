@@ -3,7 +3,7 @@
 
  
 
-:house_with_garden: Moro no Brasil.
+:house_with_garden: I'm from Brazil.
 
 :books: Atualmente Curso Analise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Franca • Fatec Franca.
 <br><br>
