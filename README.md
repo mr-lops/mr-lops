@@ -5,7 +5,7 @@
 
 :house_with_garden: I'm from Brazil.
 
-:books: Atualmente Curso Analise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Franca • Fatec Franca.
+:books: 
 <br><br>
 ## Algumas Tecnologias que Uso
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-lops&theme=dark)
