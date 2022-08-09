@@ -1,5 +1,5 @@
-## Olá, Bem Vindo! 👋
-:man: Meu nome é <b>Vitor</b>!
+## Hello! 👋
+:man: My name is <b>Vitor</b>!
 
  
 
