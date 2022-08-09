@@ -1,11 +1,10 @@
 ## Hello! 👋
 :man: My name is <b>Vitor</b>!
-
- 
-
+<!--
 :house_with_garden: I'm from Brazil.
 
 :books: 
+-->
 <br><br>
 ## Some technologies i use
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-lops&theme=dark)
@@ -33,3 +32,11 @@
   <a href="mailto:vitorsantoslopes1@gmail.com" >
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
+ <!--
+ <a href="mailto:vitorsantoslopes1@gmail.com" >
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+ <a href="mailto:vitorsantoslopes1@gmail.com" >
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+-->
