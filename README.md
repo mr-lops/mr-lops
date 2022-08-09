@@ -7,7 +7,7 @@
 
 :books: 
 <br><br>
-## Algumas Tecnologias que Uso
+## Some technologies i use
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-lops&theme=dark)
 <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
