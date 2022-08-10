@@ -1,10 +1,10 @@
 ## Hello! 👋
 :man: My name is <b>Vitor</b>!
-<!--
+
 :house_with_garden: I'm from Brazil.
 
-:books: 
--->
+:books: My study area is Artificial Inteligence.
+
 <br><br>
 ## Some technologies i use
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-lops&theme=dark)
