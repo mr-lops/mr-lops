@@ -26,20 +26,17 @@
 <hr>
 <br>
 <a href="https://www.linkedin.com/in/vitor-s-lopes" >
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://www.hackerrank.com/vitorslopes" >
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
- </a>
-  <a href="mailto:vitorsantoslopes1@gmail.com" >
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
- <a href="https://www.kaggle.com/mrlops" >
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/vitorslopes" >
+ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<a href="mailto:vitorsantoslopes1@gmail.com" >
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/mrlops" >
+ <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
  <br><br>
- </a>
- <div style="text-align:center;">
- <a href="https://vitorlopes.dev.br/" >
- My CV
- </a>
- </div>
+</a>
+<br>
+<p align="center"><a href="https://vitorlopes.dev.br/"><b>MY CV</b></a></p>
