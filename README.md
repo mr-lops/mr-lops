@@ -38,6 +38,8 @@
 <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
  <br><br>
  </a>
- <a href="https://mr-lops.github.io/" >
+ <div style="text-align:center;">
+ <a href="https://vitorlopes.dev.br/" >
  My CV
  </a>
+ </div>
