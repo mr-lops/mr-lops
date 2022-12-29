@@ -40,3 +40,4 @@
 </a>
 <br>
 <p align="center"><a href="https://vitorlopes.dev.br/"><b>MY CV</b></a></p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/vitorsantoslopes.png" alt="TryHackMe">
