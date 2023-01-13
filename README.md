@@ -9,6 +9,9 @@
 <br><br>
 <hr>
 <br>
+<a href="https://vitorlopes.dev.br/" >
+ <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/vitor-s-lopes" >
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -20,8 +23,7 @@
 </a>
 <a href="https://www.kaggle.com/mrlops" >
  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
- <br><br>
 </a>
 <br>
-<p align="center"><a href="https://vitorlopes.dev.br/"><b>MY CV</b></a></p>
+
 
