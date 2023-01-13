@@ -3,9 +3,9 @@
 
 :house_with_garden: I'm from Brazil.
 <br>
-## Some technologies i use
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-lops&theme=dark)
-[![Vitor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-lops&theme=dark)](https://github.com/mr-lops/github-readme-stats)
+
+![Vitor's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mr-lops&theme=dark)
+[![Vitor's top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mr-lops&theme=dark)](https://github.com/mr-lops/github-readme-stats)
 <br><br>
 <hr>
 <br>
