@@ -7,7 +7,6 @@
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-lops&theme=dark)
 [![Vitor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-lops&theme=dark)](https://github.com/mr-lops/github-readme-stats)
 <br><br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/vitorsantoslopes.png" alt="TryHackMe" style="display: block; margin-left: auto; margin-right: auto;">
 <hr>
 <br>
 <a href="https://www.linkedin.com/in/vitor-s-lopes" >
