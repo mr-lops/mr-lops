@@ -21,9 +21,6 @@
 <a href="mailto:vitorsantoslopes1@gmail.com" >
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.kaggle.com/mrlops" >
- <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
 <br>
 
 
