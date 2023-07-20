@@ -3,7 +3,7 @@
 
 - :house_with_garden: I'm from Brazil.
 
-- 💡 Interested in  **Data Engineering** and **Machine Learning Engineering**
+- 💡 Interested in  **IA Engineering** and **ML Engineering**
 
 - 📫 How to reach me **vitorsantoslopes1@gmail.com**
 
@@ -11,6 +11,7 @@
 
 - 👯 Connect with me in <a href="https://www.linkedin.com/in/vitor-s-lopes" >Linkedin</a>
 
+<!-- 
 <h3 align="left">Some Languages and Tools:</h3>
 
 <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' ></img>
@@ -28,7 +29,7 @@
 <img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white'/>
 
 
-<!-- 
+
 <img src='https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white'/> 
 https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
 https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
