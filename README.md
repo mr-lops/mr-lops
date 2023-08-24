@@ -3,7 +3,7 @@
 
 - :house_with_garden: I'm from Brazil.
 
-- 💡 Interested in  **Data Engineering** and **ML Engineering**
+- 💡 Interested in  **Data Engineering** and **Back-End Development**
 
 - 📫 How to reach me **vitorsantoslopes1@gmail.com**
 
