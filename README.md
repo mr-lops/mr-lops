@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mr-lops](https://github.com/mr-lops)
 
-- 👯 Connect with me in <a href="https://www.linkedin.com/in/vitor-lopes" >Linkedin</a>
+- 👯 Connect with me in <a href="https://www.linkedin.com/in/vitor-s-lopes" >Linkedin</a>
 
 <!-- 
 <h3 align="left">Some Languages and Tools:</h3>
